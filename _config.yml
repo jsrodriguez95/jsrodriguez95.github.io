@@ -25,9 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Juan Sebastian Rodriguez"
   pronouns         : # example: "she/her"  
-  bio              : "MPA insternational Development-Harvard Kennedy School"
+  bio              : "MPA international Development-Harvard Kennedy School"
   location         : "Cambridge,MA"
-  employer         : "Harvrd Joint Center For Housing Studies"
+  employer         : "Harvard Joint Center 
+                      For Housing Studies"
   uri              : # URL
   email            : "jrodriguez@hks.harvard.edu" 
 
